@@ -1,1 +1,25 @@
-
+{
+  "botInfo": {
+    "name": "QUEEN_ALYA",
+    "owner": "KING",
+    "prefix": ".",
+    "mode": "private"
+  },
+  "numbers": {
+    "owner": "2349123721026",
+    "sudo": [
+      "2348100835767",
+      "27627744974"
+    ]
+  },
+  "timestamps": {
+    "activationTime": "2025-05-03T20:16:35.621Z",
+    "lastWrite": "2025-05-03T20:16:42.347Z"
+  },
+  "stats": {
+    "writeCount": 1
+  },
+  "hashes": [
+    "6c4b6894348ab12ee57cc98992383ea96ccfb2a81465d2b1cb0d9036ab5582c3"
+  ]
+}
