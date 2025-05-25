@@ -8,19 +8,20 @@
   "numbers": {
     "owner": "2349123721026",
     "sudo": [
-      "2349112171078",
+      "2348100835767",
       "27627744974"
     ]
   },
   "timestamps": {
-    "activationTime": "2025-05-09T21:41:12.958Z",
-    "lastWrite": "2025-05-09T21:41:26.263Z"
+    "activationTime": "2025-05-25T06:37:59.761Z",
+    "lastWrite": "2025-05-25T06:38:09.207Z"
   },
   "stats": {
     "writeCount": 1
   },
   "hashes": [
     "6c4b6894348ab12ee57cc98992383ea96ccfb2a81465d2b1cb0d9036ab5582c3",
-    "960388ac05e08671bc18d47fb8dfdc15709f886a41fceec6d50472fe97c2a242"
+    "960388ac05e08671bc18d47fb8dfdc15709f886a41fceec6d50472fe97c2a242",
+    "c920b003c20137e835d4163c4610f1491386665e3af63a07323e6989525bc5ab"
   ]
 }
